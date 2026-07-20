@@ -201,7 +201,7 @@ A Gradio dashboard where you can:
 - Akshat Mehta
 - Dev Patel
 
-*Under the mentorship of Prof. Silvio Amir.*
+*Under the mentorship of **Prof. Silvio Amir**.*
 
 ---
 
