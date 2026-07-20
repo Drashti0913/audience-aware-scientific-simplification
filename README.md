@@ -93,9 +93,11 @@ audience-aware-scientific-simplification/
 │
 └── app/
     └── gradio_dashboard.py       ← interactive demo 
-```
+
 The entire pipeline lives in a single self-contained notebook, NLP.ipynb, organized into clearly labeled step-by-step cells 
-(data analysis → baselines → prompt optimization → self-refinement → evaluation → visualization). 
+(data analysis → baselines → prompt optimization → self-refinement → evaluation → visualization).
+```
+ 
 ---
 
 ## 📊 Dataset
