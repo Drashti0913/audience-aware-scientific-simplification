@@ -180,7 +180,15 @@ A Gradio dashboard where you can:
 
 ## 🛠️ Tech Stack
 
-**Python** · **PyTorch** · **HuggingFace Transformers** · **Llama 3 8B** · **T5 / BART** · **BERTScore** · **DeBERTa-NLI** · **Gradio** · **Matplotlib**
+**Python** 
+**PyTorch** 
+**HuggingFace Transformers** 
+· **Llama 3 8B** 
+· **T5 / BART** 
+· **BERTScore** 
+· **DeBERTa-NLI** 
+· **Gradio** 
+· **Matplotlib**
 
 ---
 
