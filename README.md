@@ -76,21 +76,12 @@ Different model families sit at opposite ends of a fundamental trade-off:
 ```
 audience-aware-scientific-simplification/
 │
-├── README.md                     ← you are here
+├── README.md                     
 ├── requirements.txt              ← dependencies
 │
-├── notebooks/
-│   └── NLP.ipynb                 ← full end-to-end Colab notebook
-│
-├── src/
-│   ├── step2_eda.py              ← dataset loading + exploratory analysis
-│   ├── step3_eval_pipeline.py    ← evaluation metrics (SARI, BERTScore, FKGL, FactScore)
-│   ├── step4_llama3_baseline.py  ← zero-shot Llama 3 baseline
-│   ├── step5_finetune.py         ← T5 / BART fine-tuning
-│   ├── step6_prompt_search.py    ← automatic prompt optimization
-│   ├── step7_self_refine.py      ← self-refinement loop
-│   ├── step8_breakdown.py        ← domain + audience analysis, final results table
-│   └── step9_visualizations.py   ← charts for paper + poster
+├── NLP.ipynb                     ← full end-to-end notebook (all steps in one place)
+│                                    ↳ EDA · baselines · prompt optimization ·
+│                                      self-refinement · evaluation · figures
 │
 ├── results/
 │   ├── final_results_table.csv   ← headline numbers
@@ -101,7 +92,7 @@ audience-aware-scientific-simplification/
 │   └── final_paper.pdf           ← the research paper (ACL 2023 format)
 │
 └── app/
-    └── gradio_dashboard.py       ← interactive demo (coming soon)
+    └── gradio_dashboard.py       ← interactive demo 
 ```
 
 ---
