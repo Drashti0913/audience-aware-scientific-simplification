@@ -196,10 +196,10 @@ A Gradio dashboard where you can:
 
 **NEU CS6120 — Natural Language Processing (Summer 2026)**
 
-- Drashti Bhavsar
-- Hard Gondaliya
-- Akshat Mehta
-- Dev Patel
+- Drashti Bhavsar - 002513797
+- Hard Gondaliya - 002539979
+- Akshat Mehta - 002598926
+- Dev Patel - 002566173 
 
 *Under the mentorship of **Prof. Silvio Amir**.*
 
