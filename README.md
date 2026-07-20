@@ -24,12 +24,12 @@ We build and evaluate a system that simplifies biomedical abstracts for **three 
 
 ## ✨ Key Highlights
 
-- 🎯 **Audience-aware** — one abstract, three tailored simplifications for different reading levels.
-- 🧪 **Four-dimensional evaluation** — we go beyond BLEU/ROUGE to measure simplification quality, semantic preservation, readability, *and* factual consistency.
-- 🔍 **Automatic prompt optimization** — instead of hand-writing prompts, we search a candidate pool and pick the best per audience using a validation metric.
-- ♻️ **Self-refinement loop** — the model critiques its own output for dropped/altered facts and revises, recovering factual accuracy lost during aggressive simplification.
-- 📊 **Domain analysis** — we compare how simplification behaves across medicine, biology, and computer science.
-- 🖥️ **Interactive dashboard** — a Gradio app to try the system live and view results. *(coming soon)*
+- **Audience-aware** — one abstract, three tailored simplifications for different reading levels.
+- **Four-dimensional evaluation** — we go beyond BLEU/ROUGE to measure simplification quality, semantic preservation, readability, *and* factual consistency.
+- **Automatic prompt optimization** — instead of hand-writing prompts, we search a candidate pool and pick the best per audience using a validation metric.
+- **Self-refinement loop** — the model critiques its own output for dropped/altered facts and revises, recovering factual accuracy lost during aggressive simplification.
+- **Domain analysis** — we compare how simplification behaves across medicine, biology, and computer science.
+- **Interactive dashboard** — a Gradio app to try the system live and view results. *(coming soon)*
 
 ---
 
