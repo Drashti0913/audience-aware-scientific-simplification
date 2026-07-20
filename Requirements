@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+bitsandbytes
+peft
+datasets
+evaluate
+rouge_score
+bert_score
+sacrebleu
+sentencepiece
+textstat
+matplotlib
+seaborn
+pandas
+numpy
+gradio
