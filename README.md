@@ -29,7 +29,7 @@ We build and evaluate a system that simplifies biomedical abstracts for **three 
 - **Automatic prompt optimization** — instead of hand-writing prompts, we search a candidate pool and pick the best per audience using a validation metric.
 - **Self-refinement loop** — the model critiques its own output for dropped/altered facts and revises, recovering factual accuracy lost during aggressive simplification.
 - **Domain analysis** — we compare how simplification behaves across medicine, biology, and computer science.
-- **Interactive dashboard** — a Gradio app to try the system live and view results. *(coming soon)*
+- **Interactive dashboard** — a Gradio app to try the system live and view results. 
 
 ---
 
@@ -146,7 +146,7 @@ python src/step9_visualizations.py   # figures
 
 > 💡 **Tip:** The easiest way to run everything is the [Colab notebook](notebooks/NLP.ipynb) — it handles GPU setup and runs the whole pipeline end-to-end. A T4 GPU is enough (Llama 3 runs in 4-bit).
 
-### 4. Launch the demo *(coming soon)*
+### 4. Launch the demo 
 ```bash
 python app/gradio_dashboard.py
 ```
