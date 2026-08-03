@@ -95,7 +95,8 @@ if st.button("Simplify"):
             )
 
         except Exception as error:
-            st.error(f"Generation failed: {error}")    st.subheader("Original Scientific Abstract")
+            st.error(f"Generation failed: {error}")    
+            st.subheader("Original Scientific Abstract")
     st.write(row["source"])
 
 with right:
