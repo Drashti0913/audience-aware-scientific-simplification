@@ -340,13 +340,15 @@ python3 -m pip install -r requirements.txt
 For the saved-results Streamlit dashboard, the main dependencies are:
 
 ```text
-streamlit
-pandas
+streamlit>=1.40
+pandas>=2.0
+huggingface_hub>=0.27
+textstat>=0.7
 ```
 
 ---
 
-### 3. Start the Streamlit app
+### 3. Start the Streamlit app - https://audience-aware-scientific-simplification-pmwcyb4qrva5dze9vq5j6.streamlit.app
 
 ```bash
 python3 -m streamlit run app.py
