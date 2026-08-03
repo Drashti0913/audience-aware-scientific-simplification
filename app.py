@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_ID = "meta-llama/Meta-Llama-3-8B-Instruct"
+MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct"
 
 PROMPTS = {
     "General Adult": (
