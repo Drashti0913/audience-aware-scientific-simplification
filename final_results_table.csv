@@ -1,0 +1,10 @@
+system,n,SARI,ROUGE-L,BLEU-4,BERTScore,FKGL_delta,FactScore
+t5_finetuned,50,44.223,0.343,0.193,0.898,0.98,0.974
+bart_finetuned,50,43.828,0.324,0.178,0.895,0.7,0.868
+llama3_zeroshot_general,50,36.582,0.112,0.012,0.848,5.26,0.812
+llama3_zeroshot_middle_school,50,36.491,0.092,0.005,0.832,7.88,0.416
+llama3_zeroshot_undergraduate,50,36.609,0.12,0.016,0.853,3.37,0.616
+promptsearch_general,50,36.383,0.144,0.014,0.862,4.33,0.944
+promptsearch_middle_school,50,38.083,0.093,0.007,0.828,9.72,0.36
+promptsearch_undergraduate,50,38.034,0.141,0.028,0.861,2.69,0.661
+llama3_opt_selfrefine_general,50,36.912,0.14,0.024,0.859,3.28,0.602

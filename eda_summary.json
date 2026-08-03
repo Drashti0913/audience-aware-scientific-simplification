@@ -1,0 +1,31 @@
+{
+  "overall": {
+    "mean_src_fkgl": 15.8,
+    "mean_ref_fkgl": 16.07,
+    "mean_fkgl_delta": -0.26,
+    "mean_src_tokens": 210.4,
+    "mean_ref_tokens": 132.7,
+    "mean_src_rare": 0.242,
+    "mean_ref_rare": 0.234
+  },
+  "by_domain": {
+    "src_fkgl": {
+      "biology": 15.81,
+      "cs": 17.36,
+      "medicine": 15.44,
+      "other": 15.7
+    },
+    "ref_fkgl": {
+      "biology": 15.72,
+      "cs": 18.79,
+      "medicine": 15.99,
+      "other": 15.52
+    },
+    "fkgl_delta": {
+      "biology": 0.09,
+      "cs": -1.43,
+      "medicine": -0.54,
+      "other": 0.18
+    }
+  }
+}

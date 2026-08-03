@@ -1,0 +1,32 @@
+{
+  "general": {
+    "system": "promptsearch_general",
+    "n": 50,
+    "SARI": 36.383,
+    "ROUGE-L": 0.144,
+    "BLEU-4": 0.014,
+    "BERTScore": 0.862,
+    "FKGL_delta": 4.33,
+    "FactScore": 0.944
+  },
+  "middle_school": {
+    "system": "promptsearch_middle_school",
+    "n": 50,
+    "SARI": 38.083,
+    "ROUGE-L": 0.093,
+    "BLEU-4": 0.007,
+    "BERTScore": 0.828,
+    "FKGL_delta": 9.72,
+    "FactScore": 0.36
+  },
+  "undergraduate": {
+    "system": "promptsearch_undergraduate",
+    "n": 50,
+    "SARI": 38.034,
+    "ROUGE-L": 0.141,
+    "BLEU-4": 0.028,
+    "BERTScore": 0.861,
+    "FKGL_delta": 2.69,
+    "FactScore": 0.661
+  }
+}
