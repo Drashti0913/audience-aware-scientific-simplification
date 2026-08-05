@@ -348,7 +348,7 @@ textstat>=0.7
 
 ---
 
-### 3. Start the Streamlit app - https://audience-aware-scientific-simplification-pmwcyb4qrva5dze9vq5j6.streamlit.app
+### 3. Start the Streamlit app -  LINK {https://audience-aware-scientific-simplification.streamlit.app}
 
 ```bash
 python3 -m streamlit run app.py
