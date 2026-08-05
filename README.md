@@ -323,11 +323,9 @@ audience-aware-scientific-simplification/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/audience-aware-scientific-simplification.git
+git clone https://github.com/Drashti0913/audience-aware-scientific-simplification.git
 cd audience-aware-scientific-simplification
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ---
 
